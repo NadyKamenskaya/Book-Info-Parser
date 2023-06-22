@@ -1,0 +1,35 @@
+{
+  "name": "book-info-parser",
+  "version": "1.0.0",
+  "description": "A JavaScript script for retrieving and displaying book data from an HTML page.",
+  "bin": {
+    "bookparser": "bin/bookparser.js"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "npx jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://git@github.com/NadyKamenskaya/Book-Info-Parser.git"
+  },
+  "author": "Nady Kamenskaya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NadyKamenskaya/Book-Info-Parser/issues"
+  },
+  "type": "module",
+  "homepage": "https://github.com/NadyKamenskaya/Book-Info-Parser#readme",
+  "dependencies": {
+    "commander": "^11.0.0",
+    "jsdom": "^22.1.0"
+  },
+  "devDependencies": {
+    "@jest/globals": "^29.5.0",
+    "eslint": "^8.43.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.27.5",
+    "eslint-plugin-jest": "^27.2.2",
+    "jest": "^29.5.0"
+  }
+}
