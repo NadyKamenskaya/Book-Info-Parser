@@ -1,5 +1,6 @@
 # Book-Info-Parser
 
+[![GitHub Actions](https://github.com/NadyKamenskaya/Book-Info-Parser/actions/workflows/github-actions.yml/badge.svg)](https://github.com/NadyKamenskaya/Book-Info-Parser/actions/workflows/github-actions.yml)
 [![Maintainability](https://api.codeclimate.com/v1/badges/7e6f8a083392226b0659/maintainability)](https://codeclimate.com/github/NadyKamenskaya/Book-Info-Parser/maintainability)
 [![Test Coverage](https://api.codeclimate.com/v1/badges/7e6f8a083392226b0659/test_coverage)](https://codeclimate.com/github/NadyKamenskaya/Book-Info-Parser/test_coverage)
 
